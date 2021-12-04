@@ -1,5 +1,5 @@
-# Desafio sobre Git/Github da Dio
-Repositório criado para o desafio de projeto Git/Github
+# Desafio sobre Git/GitHub da Dio
+Repositório criado para o desafio de projeto Git/GitHub
 
 ## Links úteis
 [DIO](https://web.digitalinnovation.one/)
